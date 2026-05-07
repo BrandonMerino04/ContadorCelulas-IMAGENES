@@ -1,0 +1,16 @@
+setup.py
+contador/__init__.py
+contador/bordes.py
+contador/caracteristicas.py
+contador/contador.py
+contador/deteccion.py
+contador/filtros.py
+contador/hough.py
+contador/inciar.py
+contador/preprocesar.py
+contador/segmentacion.py
+contador.egg-info/PKG-INFO
+contador.egg-info/SOURCES.txt
+contador.egg-info/dependency_links.txt
+contador.egg-info/requires.txt
+contador.egg-info/top_level.txt

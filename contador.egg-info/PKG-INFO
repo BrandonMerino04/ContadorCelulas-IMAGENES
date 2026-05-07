@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: contador
+Version: 1.0
+Requires-Dist: opencv-python
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Dynamic: requires-dist
